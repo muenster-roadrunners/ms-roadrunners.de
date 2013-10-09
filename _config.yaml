@@ -4,3 +4,10 @@ prose:
   media: 'media'
   metadata:
     _posts:
+
+
+team:
+	- name: Mila Frerichs
+      position: OF
+    - name: Björn Helfer
+      position: SS, 3B, OF
